@@ -36,7 +36,7 @@
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-rathod-546b5124a)
-- 💼 [Portfolio Website](#) <!-- (update with your domain when ready) -->
+- 💼 [Portfolio Website](http://127.0.0.1:5500/Portfolio.html) <!-- (update with your domain when ready) -->
 - 📧 Email: aryanrathod791@gmail.com
 - 🐍 [GitHub](https://github.com/Aryan054)
 
