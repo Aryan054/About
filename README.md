@@ -1,9 +1,9 @@
 # About
 ### 👋 Hi there! I'm Aryan Shyam Rathod
 
-🎓 Final Year AIML Student at Alard College of Engineering & Management, Pune  
+🎓 Graduated From Alard College of Engineering & Management, Pune in Domain of Artificial Intelligence And Machine Learning 
 🔍 Passionate about Data Analysis, Machine Learning, and Full-Stack Web Development  
-📊 Skilled in Python, SQL, Pandas, Power BI, and Django  
+📊 Skilled in Python, SQL, HTMl, CSS, JS, Pandas, Numpy, Matplotlib, Seaborn, Power BI, and Django Framewotk 
 🚀 Building real-world AI and data-driven projects to solve problems and learn deeply
 
 ---
@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack
 
 - 💻 Languages: Python, SQL, HTML, CSS, JavaScript (basic)
-- 🧠 AI/ML: Scikit-learn, NLP, Pandas, NumPy
+- 🧠 AI/ML:  NLP, Pandas, NumPy
 - 📊 Tools: Power BI, Jupyter Notebook, VS Code, Anaconda
 - 🌐 Web Dev: Django, REST APIs, Bootstrap, Git/GitHub
 
